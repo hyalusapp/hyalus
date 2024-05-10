@@ -1,6 +1,6 @@
 {
   "name": "hyalus-desktop",
-  "version": "0.0.83",
+  "version": "0.0.84",
   "license": "AGPL-3.0-only",
   "main": "dist/app/main.js",
   "scripts": {
